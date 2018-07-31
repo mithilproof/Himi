@@ -129,6 +129,8 @@ if __name__ == "__main__":
 
 				if row_counter % 100000 == 0:
 				print("Total rows read: {}, Paired rows: {}, Time: {}".format(row_counter, paired_rows, str(datetime.now)))	
+				
+				
 
 
 
